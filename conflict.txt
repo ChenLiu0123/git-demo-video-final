@@ -2,4 +2,3 @@ This is the original content from Tom
 Max adds a conflicting change
 Tom adds a second change
 
-Oops, mistake text
